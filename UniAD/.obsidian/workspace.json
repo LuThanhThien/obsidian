@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "a23b04df96114a28",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c7aa9f799a9778a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4292e8fe544d5f6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UniAD.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "UniAD"
+            }
+          },
+          {
+            "id": "8e0f0d211375bf64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UniAD.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "UniAD"
+            }
+          },
+          {
+            "id": "a102acd08cd0bf56",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "draw/UniAD Learning.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "UniAD Learning"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c687881b35e31320",
+    "type": "split",
+    "children": [
+      {
+        "id": "27af50f9ad6aec2d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19b19367a50a413d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "780e4d5fd7db983d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fdb340eb9ff95547",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5da86db2b4ab8071",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb5a992e15bd10a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6f0135259f0f8c7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "draw/UniAD Learning.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for UniAD Learning"
+            }
+          },
+          {
+            "id": "98f4ed8cc2f4a7c1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "draw/UniAD Learning.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from UniAD Learning"
+            }
+          },
+          {
+            "id": "12222edb52ee7ba6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "80c6a2714d624fe6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "draw/UniAD Learning.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of UniAD Learning"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "a102acd08cd0bf56",
+  "lastOpenFiles": [
+    "UniAD.md",
+    "Excalidraw/Drawing 2024-12-26 17.17.02.excalidraw.md",
+    "Excalidraw/Drawing 2024-12-26 17.16.46.excalidraw.md",
+    "draw/MapFormer.md",
+    "image/Agent-goal interaction module.png",
+    "Excalidraw/Drawing 2024-12-26 17.17.06.excalidraw.md",
+    "Excalidraw"
+  ]
+}

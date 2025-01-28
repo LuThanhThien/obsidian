@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "a9c1e4cf1cdcf3ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "01429cadca6d653b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "738bdc4ffd754119",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Topological Sort/Topological Sort.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Topological Sort"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6cd5e5055909648c",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c5bb0980b2e36f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e651fa3928507e42",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "faec4386057c6030",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b9f606b2b9958d06",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cb749ab961263b97",
+    "type": "split",
+    "children": [
+      {
+        "id": "dae896d47da60a34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68028923e878be55",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Topological Sort/Topological Sort.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Topological Sort"
+            }
+          },
+          {
+            "id": "48f677976ffb8900",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Topological Sort/Topological Sort.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Topological Sort"
+            }
+          },
+          {
+            "id": "b81de70814acedc7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a8b654a43845f83e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Topological Sort/Topological Sort.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Topological Sort"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "738bdc4ffd754119",
+  "lastOpenFiles": [
+    "Topological Sort/Topological Sort.md",
+    "Topological Sort/assets/TopSort Flow.md",
+    "Topological Sort/assets/TopSort Example.md",
+    "Topological Sort/assets/Untitled.md",
+    "Directed Acyclic Graph (DAG)/Directed Acyclic Graph.md",
+    "Tarjan's Strongly Connected Component (SCC)/Tarjan's Strongly Connected Component (SCC).md",
+    "Directed Acyclic Graph (DAG)",
+    "Topological Sort/assets/Circular dependent graph.md",
+    "Topological Sort/assets",
+    "Topological Sort/assets/Rooted Trees.md",
+    "Depth First Search (DFS)/Depth First Search (DFS).md",
+    "Depth First Search (DFS)",
+    "Tarjan's strongly connected component algorithm.md",
+    "Tarjan's.md",
+    "Tarji.md",
+    "Tarjan's Strongly Connected Component (SCC)",
+    "Topological Sort/assets/Topological Sort Graph.md",
+    "Excalidraw",
+    "Topological Sort"
+  ]
+}
